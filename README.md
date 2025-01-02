@@ -71,7 +71,7 @@ To view the page:
 2. Open `http://localhost:5430` in your browser.
 
 ## Screenshot
-![Screenshot of Recipe Page](Frontend/assets/images/preview.png)
+![Screenshot of Recipe Page](design/desktop-design.jpg)
 
 ## Credits
 - **Bootstrap**: [https://getbootstrap.com/](https://getbootstrap.com/)
